@@ -1,8 +1,21 @@
  I am a Computer Science student in the 3th year at South Valley national University
+
+
+
+ 
  I’m currently Learning web development using react.js
+
+
+ 
  I’m currently focusing on html,css,js,react.js
+
+ 
  How to reach me abdallahkhodari35@gmail.com
+
+ 
  Always learning new things
+
+ 
  Doing my best 
 
 <!---
