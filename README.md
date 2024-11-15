@@ -1,25 +1,26 @@
-Hello every one
+ 
+ . Hello every one
  
  
- I am a Computer Science student in the 3th year at South Valley national University
+ . I am a Computer Science student in the 3th year at South Valley national University
 
-
-
- 
- I’m currently Learning web development using react.js
 
 
  
- I’m currently focusing on html,css,js,react.js
+ . I’m currently Learning web development using react.js
+
 
  
- How to reach me abdallahkhodari35@gmail.com
+ . I’m currently focusing on html,css,js,react.js
 
  
- Always learning new things
+ . How to reach me abdallahkhodari35@gmail.com
 
  
- Doing my best 
+ . Always learning new things
+
+ 
+ . Doing my best 
 
 <!---
 Abdallah-khodari/Abdallah-khodari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
